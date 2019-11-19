@@ -1,1 +1,4 @@
 .gitignore
+/data-grid-examples.iml
+/.idea/
+/target/

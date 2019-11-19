@@ -1,0 +1,18 @@
+package partial;
+
+message Key {
+
+    required int64 id = 1;
+    required string name = 2;
+    required string description = 3;
+    required bool available = 4;
+
+}
+
+message Value {
+
+    required int64 id = 1;
+    required string value = 2;
+    required string payload = 3;
+
+}
